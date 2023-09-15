@@ -1,0 +1,11 @@
+D:\TestingPhase3\Day6\WebAppApi\WebAppApi\obj\Release\net6.0\PubTmp\Out\WebAppApi.exe
+D:\TestingPhase3\Day6\WebAppApi\WebAppApi\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\TestingPhase3\Day6\WebAppApi\WebAppApi\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\TestingPhase3\Day6\WebAppApi\WebAppApi\obj\Release\net6.0\PubTmp\Out\WebAppApi.dll
+D:\TestingPhase3\Day6\WebAppApi\WebAppApi\obj\Release\net6.0\PubTmp\Out\WebAppApi.deps.json
+D:\TestingPhase3\Day6\WebAppApi\WebAppApi\obj\Release\net6.0\PubTmp\Out\WebAppApi.runtimeconfig.json
+D:\TestingPhase3\Day6\WebAppApi\WebAppApi\obj\Release\net6.0\PubTmp\Out\WebAppApi.pdb
+D:\TestingPhase3\Day6\WebAppApi\WebAppApi\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\TestingPhase3\Day6\WebAppApi\WebAppApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\TestingPhase3\Day6\WebAppApi\WebAppApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TestingPhase3\Day6\WebAppApi\WebAppApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
